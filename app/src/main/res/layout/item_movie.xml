@@ -107,7 +107,7 @@
                     android:layout_height="16dp"
                     android:src="@drawable/time"
                     android:tint="@android:color/white"
-                    android:layout_marginEnd="4dp"/>
+                    android:layout_marginEnd="5dp"/>
 
                 <TextView
                     android:id="@+id/txtDuration"
